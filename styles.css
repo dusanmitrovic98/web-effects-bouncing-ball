@@ -20,3 +20,4 @@ body {
     top: calc(50% - 25px); /* Center the ball vertically */
     width: 50px;
     height: 50px;
+    background-color: #3498db;
