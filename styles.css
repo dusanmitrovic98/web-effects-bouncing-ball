@@ -30,3 +30,4 @@ body {
       transform: translateY(0);
     }
     50% {
+      transform: translateY(-300px);
