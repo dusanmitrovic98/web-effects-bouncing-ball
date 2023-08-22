@@ -16,3 +16,4 @@ body {
   
   .ball {
     position: absolute;
+    left: calc(50% - 25px); /* Center the ball horizontally */
